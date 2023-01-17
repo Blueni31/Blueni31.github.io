@@ -25,5 +25,12 @@ It is a dance group that I join
 
 Go to 16:27  to see my performance ;)
 
+Here are my favorite dancers!!
 
+Junar Narzolis
+Ara-Mae 
+Angel 
+Jenna escobido
+Dice 
+Arjay
 
