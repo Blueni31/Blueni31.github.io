@@ -21,9 +21,8 @@ Go subscribe to Naga City Dance Life in youtube!
 ![image](https://user-images.githubusercontent.com/122416201/212783027-74b89634-f250-44f3-9f78-86d8483a2ccb.png)
 
 It is a dance group that I join
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sDwvw_YyJF8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
 Go to 16:27  to see my performance ;)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sDwvw_YyJF8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Here are my favorite dancers!!
 
