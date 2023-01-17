@@ -9,10 +9,9 @@ welcome to my space!
 I am Jarsha Veronika S. Jasareno a grade-9 student from Ateneo De Naga University.
 
 Here is where you will find all my hobbies and talents!
-          !!Fun Fact!! 
-          My nickname is Blueni:))
-
+       
 1. DANCING
+
 I began dancing when I was 4 years old. I tried to dance ballet up until the age of 8, when I began to take contemporary classes.
 
 
