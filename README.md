@@ -16,7 +16,8 @@ I began dancing when I was 4 years old. I tried to dance ballet up until the age
 
   I actually find all dance forms to be enjoyable:)
 
-Go subscribe to Naga City Dance Life in youtube!
+Go subscribe to Naga City Dance Life on youtube!
+
 ![image](https://user-images.githubusercontent.com/122416201/212783027-74b89634-f250-44f3-9f78-86d8483a2ccb.png)
 
 It is a dance group that I join
@@ -28,13 +29,16 @@ Here are my favorite dancers!!
 
 -Junar Narzolis
 
--Ara-Mae 
+-Ara-Mae Ortiz
 
--Angel 
+-Angel De leoz
 
 -Jenna escobido
 
--Dice 
+-Dice Akira
 
--Arjay
+HERE ARE SOME OF MY FAVORITE VIDEOS OF THEM PERFORMING
+
+1. Junar Narzolis "Go to 0:23-1:11 to see his performance and go to 2:51 to see mine" (I'm the one who is wearing a hat)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5QJiopwqwEo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
