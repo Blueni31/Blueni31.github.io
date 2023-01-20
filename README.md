@@ -42,3 +42,10 @@ HERE ARE SOME OF MY FAVORITE VIDEOS OF THEM PERFORMING
 1. Junar Narzolis "Go to 0:23-1:11 to see his performance and go to 2:51 to see mine" (I'm the one who is wearing a hat)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5QJiopwqwEo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+2. Ara-Mae Ortiz
+
+3. Angel De Leoz
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4WyWwl_OSp0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+4. Jenna Escobido
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fgBzoXAVwkg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
