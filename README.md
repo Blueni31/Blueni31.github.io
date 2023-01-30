@@ -30,22 +30,12 @@ Here are my favorite dancers!!
 -Junar Narzolis
 
 -Ara-Mae Ortiz
+![image](https://user-images.githubusercontent.com/122416201/215367760-98133dae-bd05-4708-a126-b0b4b58c7e8c.png)
 
 -Angel De leoz
 
 -Jenna escobido
 
 -Dice Akira
+![image](https://user-images.githubusercontent.com/122416201/215367702-277725e1-a10a-4c71-96ab-c8c3c51cd54d.png)
 
-HERE ARE SOME OF MY FAVORITE VIDEOS OF THEM PERFORMING
-
-1. Junar Narzolis "Go to 0:23-1:11 to see his performance and go to 2:51 to see mine" (I'm the one who is wearing a hat)
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5QJiopwqwEo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-2. Ara-Mae Ortiz
-
-3. Angel De Leoz
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4WyWwl_OSp0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-4. Jenna Escobido
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fgBzoXAVwkg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
