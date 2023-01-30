@@ -30,12 +30,12 @@ Here are my favorite dancers!!
 -Junar Narzolis
 
 -Ara-Mae Ortiz
-![image](https://user-images.githubusercontent.com/122416201/215367760-98133dae-bd05-4708-a126-b0b4b58c7e8c.png)
 
 -Angel De leoz
 
 -Jenna escobido
 
 -Dice Akira
-![image](https://user-images.githubusercontent.com/122416201/215367702-277725e1-a10a-4c71-96ab-c8c3c51cd54d.png)
+
+
 
