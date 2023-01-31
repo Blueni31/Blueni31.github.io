@@ -25,7 +25,7 @@ It is a dance group that I join
 Go to 16:27  to see my performance ;)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sDwvw_YyJF8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-Here are my favorite dancers!!
+**Here are my favorite dancers!!** 
 
 -Junar Narzolis
 
