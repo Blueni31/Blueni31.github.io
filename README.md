@@ -1,36 +1,29 @@
 # blueni.github.io
 Jarsha Veronika S. Jasareno
 
-LG: 9-Campion
+Here are some of my favorite songs
 
-Hello:) welcome to my space!
-
-I am Jarsha Veronika S. Jasareno a grade-9 student from Ateneo De Naga University.
-
-Here is where you will find more facts about me and the dance community that I join!
-
-I began dancing when I was 4 years old. I tried to dance ballet up until the age of 8, when I began to take contemporary classes.
-
-I actually find all dance forms to be enjoyable:)
-
-Go subscribe to Naga City Dance Life on youtube!
-
-![image](https://user-images.githubusercontent.com/122416201/218751905-ee1d8724-e99b-4a92-be98-a98d6765b353.png)
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/4kkVGtCqE2NiAKosri9Rnd?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 
-It is a dance group that I join
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4xqrdfXkTW4T0RauPLv3WA?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-Go to 16:27 to see my performance ;)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sDwvw_YyJF8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-Here are my favorite dancers!!
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6IPwKM3fUUzlElbvKw2sKl?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
--Junar Narzolis
 
--Ara-Mae Ortiz
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1gH1h30wkQdd9zhY3j7a8T?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
--Angel De leoz
 
--Jenna escobido
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0T5iIrXA4p5GsubkhuBIKV?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
--Dice Akira
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/47sq83n5WN22ZzYnGn8aTy?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1Xgd129Fh9g4fxn4crweBV?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/25VBcFAuHR0NXGYXNcP1wc?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+
